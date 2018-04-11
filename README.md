@@ -1,6 +1,6 @@
 # AWS-S3-practice
 ---
-![image](C:/Users/Administrator/Desktop/s3.png)
+![image](http://nodesimplified.com/understanding-basics-amazon-simple-storage-service-amazon-s3/)
 ## Make a rest api for uploading file at Local and AWS S3.
 
 ## Using
