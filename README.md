@@ -1,6 +1,6 @@
 # AWS-S3-practice
 ---
-![S3](https://assets-cdn.github.com/images/modules/open_graph/github-octocat.png)
+![S3](http://nodesimplified.com/wp-content/uploads/2018/01/s3.png)
 ## Make a rest api for uploading file at Local and AWS S3.
 
 ## Using
